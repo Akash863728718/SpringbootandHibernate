@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 source folders to &apos;30HibernateWithJPAEx&apos;&#x0D;&#x0A;- Destination element: &apos;30HibernateWithJPAEx&apos;" description="Copy source folders" destination="=30HibernateWithJPAEx" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="0" stamp="1695819127775" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;05SpringCoreXmlCI&apos; to &apos;05SpringCoreXmlCI(Constuctor Injection)&apos;&#x0D;&#x0A;- Original element: &apos;05SpringCoreXmlCI&apos;&#x0D;&#x0A;- Renamed element: &apos;05SpringCoreXmlCI&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;05SpringCoreXmlCI&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=05SpringCoreXmlCI" name="05SpringCoreXmlCI(Constuctor Injection)" references="true" stamp="1688654579516" version="1.0"/>
+</session>

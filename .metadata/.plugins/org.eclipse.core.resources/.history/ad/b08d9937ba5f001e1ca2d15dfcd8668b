@@ -1,0 +1,12 @@
+package com.app.Akash.generator;
+
+import java.io.Serializable;
+
+import org.hibernate.engine.spi.SharedSessionContractImplementor;
+import org.hibernate.id.IdentifierGenerator;
+
+public class MyCustGen implements IdentifierGenerator{
+
+	public Serializable generate (SharedSessionContractImplementor session,Object object)thrown
+	return type null;
+}

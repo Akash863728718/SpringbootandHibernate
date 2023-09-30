@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.app.Akash&apos; to &apos;com.app.Akash.bean&apos;&#x0D;&#x0A;- Original project: &apos;17SpringCoreCircularDep&apos;&#x0D;&#x0A;- Original element: &apos;17SpringCoreCircularDep/src/main/java/com.app.Akash&apos;&#x0D;&#x0A;- Renamed element: &apos;17SpringCoreCircularDep/src/main/java/com.app.Akash.bean&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.app.Akash&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.Akash" name="com.app.Akash.bean" qualified="false" references="true" stamp="1691493214164" textual="false" version="1.0"/>
+</session>

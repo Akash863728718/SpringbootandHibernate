@@ -1,0 +1,15 @@
+my:
+  book:
+      bname: SAM
+      authors:
+      - Akash
+      - Ganesh
+      - Jyoti
+      versions:
+        v1: 3.2GA
+        v2: 5.0-SANPSHOT
+        V3: 5.5-RELESE
+      pob:
+        pid: 101
+        pcode: ABC
+        active: false   

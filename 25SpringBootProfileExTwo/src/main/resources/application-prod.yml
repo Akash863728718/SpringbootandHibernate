@@ -1,0 +1,8 @@
+my:
+  app:
+    db:
+      database: testdb-PROD
+      driver: Oracle-PROD
+   #   password: root
+      url: JDBC-ORCL-PROD
+   #   username: akash

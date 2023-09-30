@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;36SpringBootDataJpaSortEx-1&apos; to &apos;36SpringBootDataJpaPaginationEx1&apos;&#x0D;&#x0A;- Original element: &apos;36SpringBootDataJpaSortEx-1&apos;&#x0D;&#x0A;- Renamed element: &apos;36SpringBootDataJpaSortEx-1&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;36SpringBootDataJpaSortEx-1&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=36SpringBootDataJpaSortEx-1" name="36SpringBootDataJpaPaginationEx1" references="true" stamp="1693549772986" version="1.0"/>
+</session>

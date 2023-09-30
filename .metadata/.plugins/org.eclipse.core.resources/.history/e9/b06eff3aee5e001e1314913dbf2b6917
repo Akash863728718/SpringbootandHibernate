@@ -1,0 +1,15 @@
+package com.app.Akash.test;
+
+import java.sql.DriverManager;
+
+public class TestJdbc {
+
+	public static void main(String[] args) {
+		
+		try {
+			DriverManager.getConnection("","","");
+		}catch(Exception e) {
+		e.printStackTrace();
+		}
+	}
+}

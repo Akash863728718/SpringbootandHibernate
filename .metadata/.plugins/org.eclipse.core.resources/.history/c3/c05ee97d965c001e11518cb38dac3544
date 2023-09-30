@@ -1,0 +1,37 @@
+package com.app.Akash.entity;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Lob;
+import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Entity
+@Table(name="prodtabs")
+public class Product {
+
+	@Id
+	@Column(name="pib")
+	private Integer prodId;
+	@Column(name="pcode")
+	private String prodCode;
+	@Column(name="pcost")
+	private Double prodCast;
+	
+	@Lob // BLOB
+	@Column(name="pimg")
+	private [] prodImg;
+	
+	@Lob //CLOB
+	@Column(name="pdsc")
+	private char[] prodDesc;
+	
+	
+}

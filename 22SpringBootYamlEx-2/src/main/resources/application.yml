@@ -1,0 +1,18 @@
+my :
+   app:
+     pid: 100
+     pcost: 500
+     pcode: PEN
+     colors:
+     - Red
+     - GREEN
+     - PINK
+     models:
+         M1: ABC
+         M2: MNO
+         M3: XYZ
+     vob:
+         vid: 9900
+         vcode: ABC
+            
+       

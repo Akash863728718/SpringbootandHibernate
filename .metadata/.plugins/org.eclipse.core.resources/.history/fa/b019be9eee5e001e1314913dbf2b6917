@@ -1,0 +1,22 @@
+package com.app.Akash.test;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class TestJdbc {
+
+	public static void main(String[] args) {
+		Connection con=null;
+		try {
+			 con = DriverManager.getConnection("","","");
+		con.setAutoCommit(false);
+		//stmt,  ..execute..
+		
+		con.commit();
+		
+		}catch(Exception e) {
+			con.rollback();
+		e.printStackTrace();
+		}
+	}
+}

@@ -1,0 +1,8 @@
+my:
+  app:
+    db:
+      database: TESTDB-QA
+      driver: MYSQL
+  #    password: root
+      url: JDBC-MYSQL
+ #     username: akash

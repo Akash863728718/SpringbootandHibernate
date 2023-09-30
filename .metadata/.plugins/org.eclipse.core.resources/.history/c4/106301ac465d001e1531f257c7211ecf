@@ -1,0 +1,20 @@
+package com.app.Akash.repo;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.app.Akash.entity.Employee;
+
+public interface EmployeeRepository extends JpaRepository<Employee, Integer> {
+
+	//SQL: select * from emptab where esal<?
+	List<Employee>findByEmpSalLessThan(Double esal);
+	
+	
+	//SQL: select * from emptab where ename IS NOT NULL
+	List<Employee> findByEmpNameIsNotNull();
+	
+	//SQL: select * from emptab where dept=?
+	List<Employee>fingByEmpDept(String dept);
+}
